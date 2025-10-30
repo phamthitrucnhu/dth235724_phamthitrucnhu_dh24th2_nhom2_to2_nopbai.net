@@ -1,0 +1,11 @@
+C:\hoc_pttn\buoith2\bai2.5\bin\Debug\bai2.5.exe.config
+C:\hoc_pttn\buoith2\bai2.5\bin\Debug\bai2.5.exe
+C:\hoc_pttn\buoith2\bai2.5\bin\Debug\bai2.5.pdb
+C:\hoc_pttn\buoith2\bai2.5\obj\Debug\bai2.5.csproj.AssemblyReference.cache
+C:\hoc_pttn\buoith2\bai2.5\obj\Debug\bai2._5.Form1.resources
+C:\hoc_pttn\buoith2\bai2.5\obj\Debug\bai2._5.Properties.Resources.resources
+C:\hoc_pttn\buoith2\bai2.5\obj\Debug\bai2.5.csproj.GenerateResource.cache
+C:\hoc_pttn\buoith2\bai2.5\obj\Debug\bai2.5.csproj.CoreCompileInputs.cache
+C:\hoc_pttn\buoith2\bai2.5\obj\Debug\bai2.5.exe
+C:\hoc_pttn\buoith2\bai2.5\obj\Debug\bai2.5.pdb
+C:\hoc_pttn\buoith2\bai2.5\obj\Debug\bai2.5.exe.config

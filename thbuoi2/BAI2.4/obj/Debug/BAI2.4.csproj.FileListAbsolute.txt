@@ -1,0 +1,11 @@
+C:\hoc_pttn\buoith2\BAI2.4\bin\Debug\BAI2.4.exe.config
+C:\hoc_pttn\buoith2\BAI2.4\bin\Debug\BAI2.4.exe
+C:\hoc_pttn\buoith2\BAI2.4\bin\Debug\BAI2.4.pdb
+C:\hoc_pttn\buoith2\BAI2.4\obj\Debug\BAI2.4.csproj.AssemblyReference.cache
+C:\hoc_pttn\buoith2\BAI2.4\obj\Debug\BAI2._4.Form1.resources
+C:\hoc_pttn\buoith2\BAI2.4\obj\Debug\BAI2._4.Properties.Resources.resources
+C:\hoc_pttn\buoith2\BAI2.4\obj\Debug\BAI2.4.csproj.GenerateResource.cache
+C:\hoc_pttn\buoith2\BAI2.4\obj\Debug\BAI2.4.csproj.CoreCompileInputs.cache
+C:\hoc_pttn\buoith2\BAI2.4\obj\Debug\BAI2.4.exe
+C:\hoc_pttn\buoith2\BAI2.4\obj\Debug\BAI2.4.pdb
+C:\hoc_pttn\buoith2\BAI2.4\obj\Debug\BAI2.4.exe.config

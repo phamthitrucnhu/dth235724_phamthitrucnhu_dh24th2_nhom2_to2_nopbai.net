@@ -1,0 +1,10 @@
+C:\hoc_pttn\buoith2\bai3.3\bin\Debug\bai3.3.exe.config
+C:\hoc_pttn\buoith2\bai3.3\bin\Debug\bai3.3.exe
+C:\hoc_pttn\buoith2\bai3.3\bin\Debug\bai3.3.pdb
+C:\hoc_pttn\buoith2\bai3.3\obj\Debug\bai3.3.csproj.AssemblyReference.cache
+C:\hoc_pttn\buoith2\bai3.3\obj\Debug\bai3._3.Form1.resources
+C:\hoc_pttn\buoith2\bai3.3\obj\Debug\bai3._3.Properties.Resources.resources
+C:\hoc_pttn\buoith2\bai3.3\obj\Debug\bai3.3.csproj.GenerateResource.cache
+C:\hoc_pttn\buoith2\bai3.3\obj\Debug\bai3.3.csproj.CoreCompileInputs.cache
+C:\hoc_pttn\buoith2\bai3.3\obj\Debug\bai3.3.exe
+C:\hoc_pttn\buoith2\bai3.3\obj\Debug\bai3.3.pdb

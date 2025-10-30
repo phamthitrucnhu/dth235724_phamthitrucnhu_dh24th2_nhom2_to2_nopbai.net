@@ -1,0 +1,11 @@
+C:\hoc_pttn\buoith2\B2.1\bin\Debug\B2.1.exe.config
+C:\hoc_pttn\buoith2\B2.1\bin\Debug\B2.1.exe
+C:\hoc_pttn\buoith2\B2.1\bin\Debug\B2.1.pdb
+C:\hoc_pttn\buoith2\B2.1\obj\Debug\B2.1.csproj.AssemblyReference.cache
+C:\hoc_pttn\buoith2\B2.1\obj\Debug\B2._1.frmChuongTrinhThoiGian.resources
+C:\hoc_pttn\buoith2\B2.1\obj\Debug\B2._1.Properties.Resources.resources
+C:\hoc_pttn\buoith2\B2.1\obj\Debug\B2.1.csproj.GenerateResource.cache
+C:\hoc_pttn\buoith2\B2.1\obj\Debug\B2.1.csproj.CoreCompileInputs.cache
+C:\hoc_pttn\buoith2\B2.1\obj\Debug\B2.1.exe
+C:\hoc_pttn\buoith2\B2.1\obj\Debug\B2.1.pdb
+C:\hoc_pttn\buoith2\B2.1\obj\Debug\B2.1.exe.config

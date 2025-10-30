@@ -1,0 +1,10 @@
+C:\hoc_pttn\buoith2\4.2\bin\Debug\4.2.exe.config
+C:\hoc_pttn\buoith2\4.2\bin\Debug\4.2.exe
+C:\hoc_pttn\buoith2\4.2\bin\Debug\4.2.pdb
+C:\hoc_pttn\buoith2\4.2\obj\Debug\4.2.csproj.AssemblyReference.cache
+C:\hoc_pttn\buoith2\4.2\obj\Debug\_4._2.Form1.resources
+C:\hoc_pttn\buoith2\4.2\obj\Debug\_4._2.Properties.Resources.resources
+C:\hoc_pttn\buoith2\4.2\obj\Debug\4.2.csproj.GenerateResource.cache
+C:\hoc_pttn\buoith2\4.2\obj\Debug\4.2.csproj.CoreCompileInputs.cache
+C:\hoc_pttn\buoith2\4.2\obj\Debug\4.2.exe
+C:\hoc_pttn\buoith2\4.2\obj\Debug\4.2.pdb
