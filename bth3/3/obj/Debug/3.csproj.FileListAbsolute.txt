@@ -1,0 +1,12 @@
+C:\laptrinhnet\bth3\3\bin\Debug\3.exe.config
+C:\laptrinhnet\bth3\3\bin\Debug\3.exe
+C:\laptrinhnet\bth3\3\bin\Debug\3.pdb
+C:\laptrinhnet\bth3\3\obj\Debug\3.csproj.AssemblyReference.cache
+C:\laptrinhnet\bth3\3\obj\Debug\_3.Form1.resources
+C:\laptrinhnet\bth3\3\obj\Debug\_3.Form2.resources
+C:\laptrinhnet\bth3\3\obj\Debug\_3.Properties.Resources.resources
+C:\laptrinhnet\bth3\3\obj\Debug\3.csproj.GenerateResource.cache
+C:\laptrinhnet\bth3\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\laptrinhnet\bth3\3\obj\Debug\3.exe
+C:\laptrinhnet\bth3\3\obj\Debug\3.pdb
+C:\laptrinhnet\bth3\3\obj\Debug\3.exe.config
